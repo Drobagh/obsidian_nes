@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "7370ec00e038c48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d03c2a19e05abdce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9706a9788ab2afb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My first commit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c4390fcd0920aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa666b06f1e4a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46fbdf1ba5899ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8eea1654ac6c1eaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea49193df88c853f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3377dcb3817ae990",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb67c0b46629a7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4b20199b8f5c03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My first commit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffbd5675c717ce19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My first commit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3171e2e913204d59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9a4e9a3f3c6c380",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My first commit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9706a9788ab2afb1",
+  "lastOpenFiles": [
+    "My first commit.md"
+  ]
+}
