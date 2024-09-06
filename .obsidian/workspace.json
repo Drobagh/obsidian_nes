@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My first commit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf6b9cdc24b18653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySecondCommit.md",
+                "file": "MiF/Lections/Lesson 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySecondCommit.md",
+                "file": "MiF/Lections/Lesson 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySecondCommit.md",
+                "file": "MiF/Lections/Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySecondCommit.md",
+                "file": "MiF/Lections/Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySecondCommit.md"
+                "file": "MiF/Lections/Lesson 1.md"
               }
             }
           }
@@ -172,12 +160,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0502be4b41a2ac09",
+  "active": "f46fbdf1ba5899ad",
   "lastOpenFiles": [
-    "My first commit.md",
-    "MyThirdRep/Hello.md",
+    "MiF/Lections",
+    "MiF/Contents_/Снимок экрана 2024-09-05 в 21.44.55.png",
+    "MiF/Contents_/Снимок экрана 2024-09-05 в 19.57.25.png",
+    "MiF/Contents_",
     "MySecondCommit.md",
+    "MiF/Lections/Lesson 1.md",
+    "MyThirdRep/Hello.md",
     "MyThirdRep",
-    "Untitled"
+    "MiF"
   ]
 }
