@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyThirdRep/Hello.md",
+                "file": "MySecondCommit.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyThirdRep/Hello.md",
+                "file": "MySecondCommit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyThirdRep/Hello.md",
+                "file": "MySecondCommit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyThirdRep/Hello.md"
+                "file": "MySecondCommit.md"
               }
             }
           }
@@ -174,10 +174,10 @@
   },
   "active": "0502be4b41a2ac09",
   "lastOpenFiles": [
-    "MySecondCommit.md",
-    "MyThirdRep/Hello.md",
-    "MyThirdRep",
     "My first commit.md",
+    "MyThirdRep/Hello.md",
+    "MySecondCommit.md",
+    "MyThirdRep",
     "Untitled"
   ]
 }
