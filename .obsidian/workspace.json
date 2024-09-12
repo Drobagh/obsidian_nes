@@ -20,19 +20,30 @@
             }
           },
           {
-            "id": "0502be4b41a2ac09",
+            "id": "efd8236615182b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MiF/Lections/Lesson 1.md",
+                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff425ba51f6d3377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MiF/Lections/Lection 3..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,12 +153,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,14 +171,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f46fbdf1ba5899ad",
+  "active": "9706a9788ab2afb1",
   "lastOpenFiles": [
+    "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
+    "MiF/Lections/Lection 3..md",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 22.01.31.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.57.11.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.52.15.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.41.53.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.28.38.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.11.42.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.11.11.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.09.58.png",
+    "MiF/Lections/Lesson 1.md",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 19.40.17.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 19.35.30.png",
+    "MiF/Lections/Contents_",
     "MiF/Lections",
-    "MiF/Contents_/Снимок экрана 2024-09-05 в 21.44.55.png",
-    "MiF/Contents_/Снимок экрана 2024-09-05 в 19.57.25.png",
     "MiF/Contents_",
     "MySecondCommit.md",
-    "MiF/Lections/Lesson 1.md",
     "MyThirdRep/Hello.md",
     "MyThirdRep",
     "MiF"
