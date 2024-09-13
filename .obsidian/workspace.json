@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MiF/Lections/Lesson 1.md",
+                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MiF/Lections/Lesson 1.md",
+                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MiF/Lections/Lesson 1.md"
+                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md"
               }
             }
           }
@@ -171,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9706a9788ab2afb1",
+  "active": "efd8236615182b81",
   "lastOpenFiles": [
-    "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
     "MiF/Lections/Lection 3..md",
+    "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
+    "MiF/Lections/Lesson 1.md",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 22.01.31.png",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.57.11.png",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.52.15.png",
@@ -183,7 +185,6 @@
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.11.42.png",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.11.11.png",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.09.58.png",
-    "MiF/Lections/Lesson 1.md",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 19.40.17.png",
     "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 19.35.30.png",
     "MiF/Lections/Contents_",
