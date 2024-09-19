@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MiF/Lections/Lesson 1.md",
+                "file": "MiF/Lections/Lection 1..md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c47e1969f52f7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MiF/Lections/Lection 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23f3796e86f7f382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MiF/Lections/Lection 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
+                "file": "MiF/Lections/Lection 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
+                "file": "MiF/Lections/Lection 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MiF/Lections/Lection 2. Arbitrage and Valuation.md"
+                "file": "MiF/Lections/Lection 5.md"
               }
             }
           }
@@ -172,21 +196,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efd8236615182b81",
+  "active": "23f3796e86f7f382",
   "lastOpenFiles": [
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.50.48.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.47.57.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.43.15.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.37.42.png",
+    "MiF/Lections/Lection 4.md",
+    "MiF/Lections/Lection 5.md",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.36.23.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.34.14.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.28.59.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.18.54.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.18.34.png",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 21.09.42.png",
     "MiF/Lections/Lection 3..md",
+    "MiF/Lections/Contents_/Снимок экрана 2024-09-19 в 20.50.45.png",
     "MiF/Lections/Lection 2. Arbitrage and Valuation.md",
-    "MiF/Lections/Lesson 1.md",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 22.01.31.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.57.11.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.52.15.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.41.53.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.28.38.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.11.42.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.11.11.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 21.09.58.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 19.40.17.png",
-    "MiF/Lections/Contents_/Снимок экрана 2024-09-12 в 19.35.30.png",
+    "MiF/Lections/Lection 1..md",
     "MiF/Lections/Contents_",
     "MiF/Lections",
     "MiF/Contents_",
