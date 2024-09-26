@@ -31,7 +31,7 @@ One year rate of return $r = \frac{FV - PV}{PV}$
 Negative r: (работает с безналичными деньгами без кэша)
 - deflation
 - stimulation
-
+# NPV
 Чистая текущая стоимость - Net Present Value (NPV) = Present Value (PV) of benefits minus costs.
 
 **Portfolio** is a combination of securities. Take securities A and B, then a portfolio C can be any collection of As and Bs.
